@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">REST</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_text">Welcome to My App :)</string>
+</resources>
